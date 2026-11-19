@@ -1,0 +1,29 @@
+
+    {
+        "@context": "https://w3id.org/codemeta/3.0",
+        "name": "neues Projekt für heute",
+        "@type": "SoftwareSourceCode",
+        "contributor": [          
+            {
+                "@id": "1234-3214-3214-3214",
+                "@type": "Person",
+                "familyName": "Ende",
+                "givenName": "Ernst"
+            },
+            {
+                "@type": "Role",
+                "contributor": "1234-3214-3214-3214",
+                "roleName": "Projektplanung"
+            },          
+            {
+                "@type": "Organization",
+                "name": "Haus"
+            },          
+            {
+                "@type": "Person",
+                "familyName": "Feuer",
+                "givenName": "Franz"
+            }
+        ],
+        "datePublished": "2026-12-05"
+    }
