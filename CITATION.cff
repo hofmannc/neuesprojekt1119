@@ -1,0 +1,13 @@
+
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    title: "neues Projekt für heute"
+    type: software
+    authors:        
+        - family-names: Ende
+          given-names: Ernst
+          orcid: 1234-3214-3214-3214        
+        - name: Haus        
+        - family-names: Feuer
+          given-names: Franz
+    date-released: 2026-12-05
