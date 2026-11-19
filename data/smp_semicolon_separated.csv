@@ -1,0 +1,15 @@
+Wie lautet der Titel des Softwareprojekts?;;neues Projekt 1119
+In welche Anwendungsklasse wird die Software eingeordnet?;;Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Typ;"Set ""PM2""";Person
+Typ;"Set ""Institut2""";Entität
+Typ;"Set ""Reviewerin""";Person
+Familienname(n);"Set ""PM2""";Ende
+Familienname(n);"Set ""Reviewerin""";Feuer
+Rufname(n);"Set ""PM2""";Ernst
+Rufname(n);"Set ""Reviewerin""";Franz
+Name;"Set ""Institut2""";Haus
+ORCID;"Set ""PM2""";1234-3214-3214-3214
+Rolle;"Set ""PM2"" Set #1";Projektplanung
+Rolle;"Set ""Institut2"" Set #1";Hausmeister
+Wann beginnt das Softwareprojekt?;;2026-11-13
+Wann endet das Softwareprojekt?;;2026-12-05
