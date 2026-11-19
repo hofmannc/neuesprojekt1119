@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "neues Projekt 1119"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"PM2\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Institut2\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Reviewerin\"",
+    "values": "Person"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"PM2\"",
+    "values": "Ende"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Reviewerin\"",
+    "values": "Feuer"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"PM2\"",
+    "values": "Ernst"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Reviewerin\"",
+    "values": "Franz"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Institut2\"",
+    "values": "Haus"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"PM2\"",
+    "values": "1234-3214-3214-3214"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"PM2\" Set #1",
+    "values": "Projektplanung"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Institut2\" Set #1",
+    "values": "Hausmeister"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2026-11-13"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2026-12-05"
+  }
+]
